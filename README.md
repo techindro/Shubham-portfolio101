@@ -1,6 +1,3 @@
-# Shubham-portfolio101
-Shubham-portfolio101
-
 # Shubham Patel's Portfolio
 
 A full-stack portfolio website built with React.js (frontend) and Node.js/Express (backend). Data fetched from backend API based on LinkedIn profile.
